@@ -1,4 +1,4 @@
-#🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
+#KITTU
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 import os
 from os import environ
@@ -11,4 +11,5 @@ CREDIT = environ.get("CREDIT", "KITTU BOT")
 LOG_CHANNEL = "-1002772799692# log group me bot ko admin narur banaye full rights ke sath
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
+
 
